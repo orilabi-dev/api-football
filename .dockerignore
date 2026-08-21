@@ -11,6 +11,3 @@ __pycache__/
 
 # Mac
 .DS_Store
-
-# Airflow
-logs/
